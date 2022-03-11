@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @DonTonzo
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning Music Theory
-- 💞️ I’m looking to collaborate on Music created by AI
-- 📫 How to reach me via email
+# Betfury Dicebot 🎲🎲
+ A Dice ambling Bot for Farming BFG on Betfury
 
-<!---
-DonTonzo/DonTonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Sign Up Using Our link here to support development:*
+
+https://bit.ly/betfury-bot
+
+### Requirements:
+- Windows
+- Python
+- Google Chrome
+
+
+### Tutorital/Setup Guide:
+https://youtu.be/gRXsUqXuAtk
+
+## To Setup 
+- Clone to Desktop
+- Install Python 
+- pip install requirements
+
+## Discord Channel 
+
+https://discord.gg/vP72jzY2Tk
+
+
+
+
+#### ⚠️⚠️⚠️ THIS IS SUPER HIGH RISK AND IS BEING BUILT BY REQUEST AND FOR ENTERTAINMENT ONLY!!!!⚠️⚠️⚠️
